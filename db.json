@@ -1,6 +1,3 @@
-// 20230423165956
-// https://rycxapi.ruyuechuxing.com/xxt-min-api/bus2/route/getDynamic?appid=miniapp&data=%7B%22direction%22%3A%221%22%2C%22routeId%22%3A%22739%22%2C%22routeStationId%22%3A%2287868%22%7D&reqpara=%7B%22gpstime%22%3A1682240331967%2C%22lng%22%3A113.3619918823242%2C%22lat%22%3A23.12462997436523%2C%22direc%22%3A%22%22%2C%22version%22%3A1%2C%22devno%22%3A%22o9ivq0NoqnpIb2QAX0NfhIg3xmZQ%22%2C%22devtype%22%3A4%2C%22versiontype%22%3A2%2C%22uid%22%3A%22o9ivq0NoqnpIb2QAX0NfhIg3xmZQ%22%2C%22reserved%22%3A%22%22%7D&reqtime=1682240331967&sign=EC228CAF485C25557AA5B528F3EFB569
-
 {
   "retCode": 0,
   "retData": {
